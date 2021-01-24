@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Voice-Assistant/static/css/main.84ab1802.chunk.css",
+    "main.js": "/Voice-Assistant/static/js/main.0d6807a2.chunk.js",
+    "main.js.map": "/Voice-Assistant/static/js/main.0d6807a2.chunk.js.map",
+    "runtime-main.js": "/Voice-Assistant/static/js/runtime-main.d4b345cd.js",
+    "runtime-main.js.map": "/Voice-Assistant/static/js/runtime-main.d4b345cd.js.map",
+    "static/js/2.0b75619c.chunk.js": "/Voice-Assistant/static/js/2.0b75619c.chunk.js",
+    "static/js/2.0b75619c.chunk.js.map": "/Voice-Assistant/static/js/2.0b75619c.chunk.js.map",
+    "index.html": "/Voice-Assistant/index.html",
+    "static/css/main.84ab1802.chunk.css.map": "/Voice-Assistant/static/css/main.84ab1802.chunk.css.map",
+    "static/js/2.0b75619c.chunk.js.LICENSE.txt": "/Voice-Assistant/static/js/2.0b75619c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b345cd.js",
+    "static/js/2.0b75619c.chunk.js",
+    "static/css/main.84ab1802.chunk.css",
+    "static/js/main.0d6807a2.chunk.js"
+  ]
+}
