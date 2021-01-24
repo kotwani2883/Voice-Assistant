@@ -1,0 +1,4 @@
+LowerCase conversion in ALAN-AI not converted causing no reading
+We cannot do forEach and map whenever we are doing an asynchronous Call
+The highlights which were showed in the map were pointing 1 step forward each time...sloved using initial state as -1 in the useState hook and reset the 
+active article number using the setActiveArticle function
