@@ -4,5 +4,5 @@
 
 ![Screenshot](S1.png)
 
-To run on Local Machine:
-npm start
+## To run on Local Machine:
+ npm start
