@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Voice-Assistant/static/css/main.84ab1802.chunk.css",
+    "main.css": "/Voice-Assistant/static/css/main.d27ddfea.chunk.css",
     "main.js": "/Voice-Assistant/static/js/main.8944678d.chunk.js",
     "main.js.map": "/Voice-Assistant/static/js/main.8944678d.chunk.js.map",
     "runtime-main.js": "/Voice-Assistant/static/js/runtime-main.d4b345cd.js",
@@ -8,13 +8,13 @@
     "static/js/2.0b75619c.chunk.js": "/Voice-Assistant/static/js/2.0b75619c.chunk.js",
     "static/js/2.0b75619c.chunk.js.map": "/Voice-Assistant/static/js/2.0b75619c.chunk.js.map",
     "index.html": "/Voice-Assistant/index.html",
-    "static/css/main.84ab1802.chunk.css.map": "/Voice-Assistant/static/css/main.84ab1802.chunk.css.map",
+    "static/css/main.d27ddfea.chunk.css.map": "/Voice-Assistant/static/css/main.d27ddfea.chunk.css.map",
     "static/js/2.0b75619c.chunk.js.LICENSE.txt": "/Voice-Assistant/static/js/2.0b75619c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d4b345cd.js",
     "static/js/2.0b75619c.chunk.js",
-    "static/css/main.84ab1802.chunk.css",
+    "static/css/main.d27ddfea.chunk.css",
     "static/js/main.8944678d.chunk.js"
   ]
 }
