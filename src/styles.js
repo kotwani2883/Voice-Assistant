@@ -70,7 +70,7 @@ export default makeStyles((theme) => ({
     padding: '0 5%',
     margin: '3% 0',
     [theme.breakpoints.down('sm')]: {
-      height: '35vmin',
+      height: '20vmin',
     },
   },
 }));

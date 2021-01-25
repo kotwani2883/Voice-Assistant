@@ -10,11 +10,11 @@ margin:0,
         display: 'flex',
        flexDirection:'column',
        justifyContent:'space-between',
-        alignItems: 'center',
+       
         width: '100%',
         borderRadius: 10,
         color: 'white',
-        height: '45vh',
+        height: '75vh',
         padding:'10%'
     
       },
