@@ -4,5 +4,6 @@
 
 ![Screenshot](S1.png)
 
-## To run on Local Machine:
- npm start
+* Built using Alan-AI
+Alan is an advanced Voice AI Platform that allows you to add a voice interface to your app without overhead. Alan provides a complete serverless environment to build robust and reliable in-app voice assistants and chatbots.Alan also scrolls itself down according to size of the Page.Also we can directly open article by speakinf open article and Go back commands
+
