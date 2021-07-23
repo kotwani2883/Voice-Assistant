@@ -12,3 +12,5 @@ Alan is an advanced Voice AI Platform that allows you to add a voice interface t
 * Material-ui/core
 * classnames
 * words to number(Open command)
+
+### API - newsapi.org
